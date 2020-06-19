@@ -20,6 +20,8 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     //Button btnOpcionRegistro;
+    //voy agregar una linea
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
